@@ -1,0 +1,34 @@
+.margin{
+    margin-bottom:5%;
+}
+
+.card{
+    margin-left: 12px;
+    /* margin-bottom: */
+}
+
+
+
+
+ /* Media Query for Mobile Devices */
+ @media (max-width: 480px) {
+    .margin{
+        margin-bottom: 0%;
+        padding-top:10px;
+    }
+    .margin h5{
+        font-size: 24px !important;
+    }
+    .margin p{
+        font-size: 12px !important;
+        
+    }
+}
+  
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+    
+   
+    
+}
+    
